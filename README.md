@@ -35,7 +35,9 @@ This video is a must watch. It describes the entire test. A lot of strategies we
 
         ![inst](images/inst1.png)
     - Open the exe without 3.0 or XP in it. Then click on the license.xml button. Your test app is activated.
+      
         ![inst](images/inst2.png)
+      
         ![inst](images/inst3.png)
 
 
