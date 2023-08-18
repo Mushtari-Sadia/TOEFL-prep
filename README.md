@@ -65,3 +65,24 @@ This video is a must watch. It describes the entire test. A lot of strategies we
 - **folder:**
   
     https://buetedu-my.sharepoint.com/:f:/g/personal/maliha_wre_buet_ac_bd/EovHVuVyA-JBjcIBYnwe_CAB9oWL2yYiOxt0JykXtndjmQ?e=iBulsx
+
+
+## Mashiat Mustaq
+### My TOEFL Score : 116/120
+*R : 30/30, L : 30/30, S : 28/30, W: 28/30*
+
+
+I primarily followed the above suggestions for my TOEFL preparation. Started prepping from two weeks earlier, first watched the youtube video provided in the above section Starting Point, then watched the writing tutorials of Notefull. I used to give a mock test from the app (link provided in the above too) everyday, and at the end sometimes even two in a day. So overall I might have practised the contents of around ten mock tests. From my previous experience of giving GRE, I have always found that giving a mock test at a stretch, without taking any break helps you to prepare for the tiresome and mentally exhausting official test of almost 3.5-4 hours in the center. So, my suggestion is to at least give 2-3 mock tests without any break to familiarize yourself with the environment.
+
+*For writing section, I do not have any extra insight. I mainly followed the above guidelines.*
+
+## *Reading :*
+Never read the full passage at the start, it will only waste your time.
+In selecting sentences that summarizes your passage, only three will have correct information, the rest will either be wrong or contain information not mentioned in the passage. Try to eliminate those first, eventually, you’ll be left with three correct ones. It worked in my case.
+
+## *Listening:*
+I was struggling between taking notes and hearing every line of the conversation. Most of the time, I missed hearing some lines while trying to complete my note of the previous lines. My notes were short, but writing the full words consumed my time mostly. Later, I started writing words in half. Like writing “stu” instead of “student”, or “M/S” instead of “The Mediterranean Sea”.
+
+## *Speaking:*
+I put extra efforts in this to prepare myself. In the final test while the initial instruction was going on, I wrote all my templates in my rough sheet and kept it one side so I can look at the templates and my notes together while speaking. Besides, since I wasn’t confident about this part, during the preparation time of 15/30 seconds, I tried to speak once in my mind the way I was planning to speak (well, most of the time I couldn’t complete it in my mind as the time was very short) . It helped as once the timer started, I didn’t have to think much on how I should compose my sentences since I already did that in my mind once.
+I was warned about the noise in the final test during speaking. What happened in my case was that everyone started their speaking at the same time. And there was one person in my room who almost yelled while giving her speaking test. The voices of others were moderate but that one person was enough to make me lose my concentration multiple times while giving my test. If you are unlucky, you might have someone like that too so be prepared for the worst.
