@@ -47,7 +47,7 @@ This video is a must watch. It describes the entire test. A lot of strategies we
     **Another tip:** The test app fails to save the written essay sometimes. So what I did was, after writing one essay, exited the test, went to view answers -> writing -> switched between the independent/integrated a few times to load it -> copied it (ctrl+c) -> pasted in a text file outside -> then went back to the test and started the second question of writing.
 
 
-    That’s it for my preparation. There are more resources below which I collected but never looked at (except for the first two links). I did make some notes, which you can find below the resources.
+    That’s it for my preparation. There are more resources below which I collected but never looked at (except for the first two links). 
 
 ### **Resources**
 - **Writing Resources**:
