@@ -1,9 +1,7 @@
 # TOEFL-prep
 
-- [Mushtari Sadia][#sadia]
-- [Mashiat Mustaq][#mashiat]
-
-<a name="sadia"><a/>
+- [Mushtari Sadia](https://github.com/Mushtari-Sadia/TOEFL-prep#mushtari-sadia)
+- [Mashiat Mustaq](https://github.com/Mushtari-Sadia/TOEFL-prep#mashiat-mustaq)
 
 ## Mushtari Sadia
 
@@ -82,8 +80,6 @@ This is why you must know the TOEFL scoring rubrics. In the speaking section, yo
 - **folder:**
   
     https://buetedu-my.sharepoint.com/:f:/g/personal/maliha_wre_buet_ac_bd/EovHVuVyA-JBjcIBYnwe_CAB9oWL2yYiOxt0JykXtndjmQ?e=iBulsx
-
-<a name="mashiat"><a/>
 
 ## Mashiat Mustaq
 ### My TOEFL Score : 116/120
