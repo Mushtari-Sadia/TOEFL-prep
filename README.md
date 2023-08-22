@@ -11,11 +11,12 @@
     Writing: 26/30
 
 - Total preparation time: 4-5 days
+- Test date: June 10, 2023
 
 ### **My Test Experience**
 I gave my exam at the AAA centre, Banani. Overall environment was pretty good. A typical problem in toefl exams is that it becomes quite disturbing when others are in their speaking section, so be prepared for that. In my case, I finished the listening section quite fast so I was able to start my speaking section before everyone else around me (so I think I was the one who disturbed everyone xD). When everyone else started speaking, I was in the writing section and couldn't focus for 1-2 minutes.
 
-Another thing that happened to me was, I was somehow getting less and less time for questions compared to the mock tests I gave at home. I guess this is a general thing that happens during tests. I even missed one question in the reading section because I was out of time. In the writing portion, I didn't have time to write conclusions (for both questions). I think this strongly affected my writing scores. So while you're practising at home, practice in a way that you have enough time to spare, because in the actual exam your pace becomes much slower. Also, in toefl exams there is a specific structure for scores. It won't matter how well you wrote if you didn’t write conclusions or didn’t use enough transitional words, etc. So make yourself familiar with the structures and something called toefl scoring rubrics.
+Another thing that happened to me was, I was somehow getting less and less time for questions compared to the mock tests I gave at home. I guess this is a general thing that happens during tests. I even missed one question in the reading section because I was out of time. In the writing portion, I didn't have time to write conclusions (for both questions). I think this strongly affected my writing scores. So while you're practising at home, practice in a way that you have enough time to spare, because in the actual exam your pace becomes much slower. Also, in toefl exams there is a specific structure for scores. It won't matter how well you wrote if you didn’t write conclusions or didn’t use enough transitional words, etc. So make yourself familiar with the structures and something called "TOEFL scoring rubrics."
 
 ### **My Preparation Steps**
 <u>**Starting point**</u>
@@ -48,6 +49,16 @@ This video is a must watch. It describes the entire test. A lot of strategies we
 
 
     That’s it for my preparation. There are more resources below which I collected but never looked at (except for the first two links). 
+
+### **Tips**
+
+#### Speaking
+
+Most people struggle with this section the most, including myself, so I'm adding some tips that helped me. First- if you're struggling with speaking, practice it more. Even though I gave only 5 full mock tests, I spent almost a whole day practising the speaking section of about 13 tests.
+
+Second- a common issue of the independent speaking tasks (where you're asked to talk about a random topic and you only get to think about it for 15 seconds) is that "I couldn't come up with anything". Note that the problem usualy isn't that you couldn't come up with anything, the problem is whatever came to your mind, you thought- "I'll sound lame if I say this".
+
+This is why you must know the TOEFL scoring rubrics. In the speaking section, you are not scored on the content you're saying. You're scored on your ability of getting words out of your mouth, and successfully getting your point across. You just have to talk and be understood. That's it. So say any stupid thing that comes to your mind, you don't need to sound smart.
 
 ### **Resources**
 - **Writing Resources**:
