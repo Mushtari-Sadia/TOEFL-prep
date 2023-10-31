@@ -1,8 +1,8 @@
 # TOEFL-prep
 
-- [Mushtari Sadia (Old TOEFL)](https://github.com/Mushtari-Sadia/TOEFL-prep#mushtari-sadia)
-- [Mashiat Mustaq (Old TOEFL)](https://github.com/Mushtari-Sadia/TOEFL-prep#mashiat-mustaq)
-- [Ataf Fazledin Ahamed (New TOEFL)](#ataf-fazledin-ahamed)
+- [Mushtari Sadia](https://github.com/Mushtari-Sadia/TOEFL-prep#mushtari-sadia) (Old TOEFL)
+- [Mashiat Mustaq](https://github.com/Mushtari-Sadia/TOEFL-prep#mashiat-mustaq) (Old TOEFL)
+- [Ataf Fazledin Ahamed](#ataf-fazledin-ahamed) (New TOEFL)
 
 ## Mushtari Sadia
 
