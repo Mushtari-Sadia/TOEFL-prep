@@ -2,6 +2,7 @@
 
 - [Mushtari Sadia](https://github.com/Mushtari-Sadia/TOEFL-prep#mushtari-sadia)
 - [Mashiat Mustaq](https://github.com/Mushtari-Sadia/TOEFL-prep#mashiat-mustaq)
+- [Ataf Fazledin Ahamed](#ataf-fazledin-ahamed)
 
 ## Mushtari Sadia
 
@@ -100,3 +101,34 @@ I was struggling between taking notes and hearing every line of the conversation
 ## *Speaking:*
 I put extra efforts in this to prepare myself. In the final test while the initial instruction was going on, I wrote all my templates in my rough sheet and kept it one side so I can look at the templates and my notes together while speaking. Besides, since I wasn’t confident about this part, during the preparation time of 15/30 seconds, I tried to speak once in my mind the way I was planning to speak (well, most of the time I couldn’t complete it in my mind as the time was very short) . It helped as once the timer started, I didn’t have to think much on how I should compose my sentences since I already did that in my mind once.
 I was warned about the noise in the final test during speaking. What happened in my case was that everyone started their speaking at the same time. And there was one person in my room who almost yelled while giving her speaking test. The voices of others were moderate but that one person was enough to make me lose my concentration multiple times while giving my test. If you are unlucky, you might have someone like that too so be prepared for the worst.
+
+
+## Ataf Fazledin Ahamed
+### My TOEFL Score: 110/120
+*R: 30/30, L: 28/30, S: 28/30, W: 24/30*
+
+### Resources
+- TOEFL Mock Test App:
+  Download the ZIPs from the link below. Extract and install all of these TOEFL test apps.
+    - https://drive.google.com/drive/folders/1l1aZt5WgIaYZ4lpW1LtVQJWcSgFepfbz?usp=sharing
+
+- Then, watch these two videos, it gives an overall idea about the whole TOEFL exam. 
+  - https://www.youtube.com/watch?v=7XA49rWNiqw
+  - https://www.youtube.com/watch?v=tjGQt7rf7VM 
+
+### Preparation
+After you get an understanding of the whole TOEFL exam format, I'd suggest you to go to TestGlider and give a whole mock test. It'll take 1.5-2 hr. The goal isn't to score a perfect number but to get a firsthand idea about the exam. Now that you've given the TestGlider (TG) exam, I hope you've become familiar with the exam format. Let's start practicing then -
+
+- **READING**:
+For the reading part, I kept giving the mock test from the TOEFL app. I started with the official one - it has 4 mock tests. I only practiced the reading section. Then reviewed my answer, took a look at where I made mistakes. After the official TOEFL app, I started giving mock tests on the TOEFL v2 app. Its reading section is quite harder than the official one. It has 5 mock tests, but each of them train you to focus more and more. After giving the tests, I reviewed my answer and noticed where I was making mistakes. At last, I gave a mock test on the TOEFL v1 app on the reading section only. On average, I used to get 83%-93% on these reading sections.
+
+- **SPEAKING**:
+After the reading section, I reserved a whole day just for the speaking section. I went to TG and kept giving all of the speaking 'practice' examples. You may give the TestGlider mock tests too. Following a common template for speaking helps. You can refer to the shared Google doc to find such examples.
+
+- **LISTENING**:
+After I was confident of my SPEAKING abilities, I practiced the LISTENING section from TestGlider also. It appeared to me that the LISTENING section doesn't require as much practice as SPEAKING does. Also, it's fairly easy to score on LISTENING than on SPEAKING.
+
+- **WRITING**:
+Personally, I never had any problems writing independently. So, I took up writing practice for the last stage. I practiced from the TestGlider. Following a template and taking note will help you in writing. So, I did that too. Basically, I followed the tips said in those YouTube videos.
+
+Overall, I gave 4+5+5+3 reading mocks. All TG speaking, listening practice. And at last, during the last day - I gave two complete mock tests from TG once I was confident of my preparation. Also, I had confidence in my writing, still got the lowest among all sections. Even though I had finished early and revised it, I guess the fault was in my approach. Maybe my writing didn't cover all points.
